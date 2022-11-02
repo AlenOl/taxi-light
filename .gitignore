@@ -7,6 +7,7 @@ venv/
 .pytest_cache/
 **__pycache__/
 db.sqlite3
+taxi_service_db_data.json
 # Created by https://www.toptal.com/developers/gitignore/api/python,django,pycharm+all
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,django,pycharm+all
 
