@@ -6,6 +6,10 @@ Django project for managing drivers and cars in taxi service.
 
 [taxi service light_deployed_to_Heroku](https://taxi-light.herokuapp.com/)
 
+login: test.user
+
+pass: 123Watch123
+
 ## Features
 
 * Authentication functionality for Driver
