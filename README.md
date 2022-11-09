@@ -6,9 +6,9 @@ Django project for managing drivers and cars in taxi service.
 
 [taxi service light_deployed_to_Heroku](https://taxi-light.herokuapp.com/)
 
-login: test.user
+login: elvis.testuser
 
-pass: 123Watch123
+pass: 123Look456
 
 ## Features
 
@@ -25,8 +25,19 @@ pass: 123Watch123
 Python3 must be already installed
 
 * git clone https://github.com/AlenOl/taxi-light
+
+For Mac:
+
 * cd taxi-light
 * python3 -m venv venv
 * source venv/bin/activate
 * pip install -r requirements.txt
 * python manage.py runserver
+
+For Windows:
+
+* cd taxi-light
+* pip install virtualenv venv
+* venv\Scripts\activate
+* pip install -r requirements.txt
+* python manage.py runserver 
