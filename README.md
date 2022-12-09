@@ -37,7 +37,7 @@ For Mac:
 For Windows:
 
 * cd taxi-light
-* pip install virtualenv venv
+* pip install virtualvenv venv
 * venv\Scripts\activate
 * pip install -r requirements.txt
 * python manage.py runserver 
